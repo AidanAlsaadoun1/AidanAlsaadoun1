@@ -1,7 +1,7 @@
 <h1 align="center">Aidan Alsaadoun</h1>
 
 <p align="center">
-  <b>Founding Engineer @ Sprintworks</b><br/>
+  <b>Founding Engineer @ sprintworks</b><br/>
   Full-stack engineer · 7 years across gambling, public sector, finance &amp; consultancy
 </p>
 
@@ -14,7 +14,7 @@
 
 ### About
 
-Founding engineer at Sprintworks, building from zero. Seven years of shipping production systems across gambling, public sector, finance, and consultancy — wherever the systems are regulated, high-throughput, or both. I specialise in TypeScript, Java, and Node.js on the application side, and AWS for everything underneath.
+Founding engineer at sprintworks, building from zero. Seven years of shipping production systems across gambling, public sector, finance, and consultancy — wherever the systems are regulated, high-throughput, or both. I specialise in TypeScript, Java, and Node.js on the application side, and AWS for everything underneath.
 
 ---
 
