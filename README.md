@@ -1,7 +1,7 @@
 <h1 align="center">Aidan Alsaadoun</h1>
 
 <p align="center">
-  <b>Founding Engineer @ <a href"https://sprintworks.dev">sprintworks</a></b><br/>
+  <b>Founding Engineer @ <a href="https://sprintworks.dev">sprintworks</a></b><br/>
   Full-stack engineer · 7 years across gambling, public sector, finance &amp; consultancy
 </p>
 
