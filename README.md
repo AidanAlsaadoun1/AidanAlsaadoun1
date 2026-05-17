@@ -14,7 +14,7 @@
 
 ### About
 
-Founding engineer at sprintworks, building from zero. Seven years of shipping production systems across gambling, public sector, finance, and consultancy — wherever the systems are regulated, high-throughput, or both. I specialise in TypeScript, Java, and Node.js on the application side, and AWS for everything underneath.
+Founding engineer at sprintworks, building from zero. Seven years of shipping production systems across gambling, public sector, finance, and consultancy. TypeScript and AWS are my home comforts but I love to learn pretty much anything & everything!
 
 ---
 
@@ -37,7 +37,7 @@ Hackathon-built tool to help students with accessibility needs. Summarises docum
 
 **Gym companion app.**
 
-Workout tracking app — log sessions, see progression over time, build the habit.
+Workout tracking app - log sessions, see progression over time, build the habit.
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ Workout tracking app — log sessions, see progression over time, build the habi
 
 **Sunrise quality forecast.**
 
-Predicts whether tomorrow's sunrise is worth the alarm clock — so you only get up for the good ones.
+Predicts whether tomorrow's sunrise or sunset is worth the alarm clock so you only get up for the good ones.
 
 </td>
 <td width="50%" valign="top">
@@ -88,15 +88,6 @@ Curses TUI over `~/.aws/config` — preview region, SSO, role, and live account 
   <img alt="AWS Solutions Architect" src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img alt="AWS Developer" src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img alt="PJPT" src="https://img.shields.io/badge/TCM%20Security-PJPT-0a0a0a?style=for-the-badge" />
-</p>
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AidanAlsaadoun1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidanAlsaadoun1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
