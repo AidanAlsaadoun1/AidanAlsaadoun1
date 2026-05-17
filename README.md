@@ -14,7 +14,7 @@
 
 ### About
 
-Founding engineer at sprintworks, building from zero. Seven years of shipping production systems across gambling, public sector, finance, and consultancy — wherever the systems are regulated, high-throughput, or both. I specialise in TypeScript, Java, and Node.js on the application side, and AWS for everything underneath.
+Founding engineer at sprintworks, building from zero. Seven years of shipping production systems across gambling, public sector, finance, and consultancy. I specialise in TypeScript, Java, and Node.js on the application side, and AWS for everything underneath.
 
 ---
 
