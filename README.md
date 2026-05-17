@@ -1,13 +1,13 @@
 <h1 align="center">Aidan Alsaadoun</h1>
 
 <p align="center">
-  <b>Founding Engineer @ <a href="https://sprintworks.dev">sprintworks</a></b><br/>
+  <b>Founding Engineer @ <a target="_blank" href="https://sprintworks.dev">sprintworks</a></b><br/>
   Full-stack engineer · 7 years across gambling, public sector, finance &amp; consultancy
 </p>
 
 <p align="center">
-  <a href="https://dev-aidan.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dev--aidan.com-0a0a0a?style=for-the-badge" /></a>
-  <a href="https://github.com/AidanAlsaadoun1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AidanAlsaadoun1-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href="https://dev-aidan.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dev--aidan.com-0a0a0a?style=for-the-badge" /></a>
+  <a target="_blank" href="https://github.com/AidanAlsaadoun1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AidanAlsaadoun1-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Founding engineer at sprintworks, building from zero. Seven years of shipping pr
 <tr>
 <td width="50%" valign="top">
 
-#### [Clarify](https://github.com/AidanAlsaadoun1/Clarify) &middot; <a href="https://clarify-accessibility.vercel.app/">live</a>
+#### [Clarify](https://github.com/AidanAlsaadoun1/Clarify) &middot; <a target="_blank" href="https://clarify-accessibility.vercel.app/">live</a>
 
 **Accessibility-first document summariser.**
 
@@ -33,7 +33,7 @@ Hackathon-built tool to help students with accessibility needs. Summarises docum
 </td>
 <td width="50%" valign="top">
 
-#### [Skye](https://github.com/AidanAlsaadoun1/gym-app) &middot; <a href="https://skyeapp.fit">skyeapp.fit</a>
+#### [Skye](https://github.com/AidanAlsaadoun1/gym-app) &middot; <a target="_blank" href="https://skyeapp.fit">skyeapp.fit</a>
 
 **Gym companion app.**
 
@@ -44,7 +44,7 @@ Workout tracking app — log sessions, see progression over time, build the habi
 <tr>
 <td width="50%" valign="top">
 
-#### [Skyerise](https://github.com/AidanAlsaadoun1/skyerise) &middot; <a href="https://skyerise.cloud">skyerise.cloud</a>
+#### [Skyerise](https://github.com/AidanAlsaadoun1/skyerise) &middot; <a target="_blank" href="https://skyerise.cloud">skyerise.cloud</a>
 
 **Sunrise quality forecast.**
 
@@ -85,19 +85,19 @@ Curses TUI over `~/.aws/config` — preview region, SSO, role, and live account 
 ### Certifications
 
 <p>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/3c4f95f1c5b540b7a29f87db5f7506b2">
+  <a target="_blank" href="https://cp.certmetrics.com/amazon/en/public/verify/credential/3c4f95f1c5b540b7a29f87db5f7506b2">
     <img alt="AWS Certified Solutions Architect — verify" src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/75861d305dfa46ffa1edd03d52e72011">
+  <a target="_blank" href="https://cp.certmetrics.com/amazon/en/public/verify/credential/75861d305dfa46ffa1edd03d52e72011">
     <img alt="AWS Certified Developer — verify" src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   </a>
-  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118350064?key=0072db6c8b331990a80d197a4c4ff683fbedf911995e068e0a79865b5ae4b32f">
+  <a target="_blank" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118350064?key=0072db6c8b331990a80d197a4c4ff683fbedf911995e068e0a79865b5ae4b32f">
     <img alt="PJPT — view certificate" src="https://img.shields.io/badge/TCM%20Security-PJPT-0a0a0a?style=for-the-badge" />
   </a>
 </p>
 
 <p>
-  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118350064?key=0072db6c8b331990a80d197a4c4ff683fbedf911995e068e0a79865b5ae4b32f">
+  <a target="_blank" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/118350064?key=0072db6c8b331990a80d197a4c4ff683fbedf911995e068e0a79865b5ae4b32f">
     <img alt="PJPT Badge — Practical Junior Penetration Tester" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118350064?key=0072db6c8b331990a80d197a4c4ff683fbedf911995e068e0a79865b5ae4b32f" height="140" />
   </a>
 </p>
@@ -105,5 +105,5 @@ Curses TUI over `~/.aws/config` — preview region, SSO, role, and live account 
 ---
 
 <p align="center">
-  <a href="https://dev-aidan.com"><b>dev-aidan.com</b></a>
+  <a target="_blank" href="https://dev-aidan.com"><b>dev-aidan.com</b></a>
 </p>
